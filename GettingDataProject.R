@@ -52,5 +52,5 @@ create_tidy <- function() {
                           summarize_each(funs(mean))
   ## save to file
   write.csv(summary_ds,"UCI HAR Dataset/FinalProjectOutput.txt")
-  summary_ds
+  
 }

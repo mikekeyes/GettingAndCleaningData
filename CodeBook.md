@@ -15,21 +15,37 @@ This data set shows the mean of the mean and standard deviation of each measure 
 These variables were summarized:
 
 -tBodyAcc-XYZ
+
 -tGravityAcc-XYZ
+
 -tBodyAccJerk-XYZ
+
 -tBodyGyro-XYZ
+
 -tBodyGyroJerk-XYZ
+
 -tBodyAccMag
+
 -tGravityAccMag
+
 -tBodyAccJerkMag
+
 -tBodyGyroMag
+
 -tBodyGyroJerkMag
+
 -fBodyAcc-XYZ
+
 -fBodyAccJerk-XYZ
+
 -fBodyGyro-XYZ
+
 -fBodyAccMag
+
 -fBodyAccJerkMag
+
 -fBodyGyroMag
+
 -fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
